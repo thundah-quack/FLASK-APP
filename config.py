@@ -1,3 +1,7 @@
+# Config against CSRF attacks
+# secret key used in token for logins
+
+
 import os
 
 class Config:
